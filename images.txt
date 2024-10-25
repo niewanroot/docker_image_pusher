@@ -1,3 +1,5 @@
-lscr.io/linuxserver/webtop:amd64-debian-xfce
+wallabag/wallabag
+codeberg.org/readeck/readeck:latest
+
 
 
