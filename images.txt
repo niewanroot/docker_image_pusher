@@ -1,5 +1,5 @@
-wallabag/wallabag
-codeberg.org/readeck/readeck:latest
+wallabag/wallabag:arm63-latest
+codeberg.org/readeck/readeck:arm64latest
 
 
 
