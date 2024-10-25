@@ -1,2 +1,2 @@
-m1k1o/neko:chromium
+ollame/ollame
 
