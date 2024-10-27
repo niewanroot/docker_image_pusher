@@ -1,5 +1,4 @@
---platform=linux/arm64 wallabag/wallabag:latest
---platform=linux/arm64 codeberg.org/readeck/readeck:latest
+xhofe/alist
 
 
 
